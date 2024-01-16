@@ -208,6 +208,7 @@ textarea,input{
     height:700px;
     display:flex;
     justify-content: space-evenly;
+
     margin-left:10%;
     margin-right:10%;
     
@@ -577,6 +578,9 @@ textarea,input{
     background-color: var(--first-color);
     transition: 0.5s ease;
     opacity:0.3;
+}
+.followme{
+    color:var(--first-color);
 }
 #xyzz{
     color: var(--first-color);

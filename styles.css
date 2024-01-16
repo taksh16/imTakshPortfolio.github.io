@@ -205,7 +205,7 @@ textarea,input{
 }
 
 .projects__container{
-    height:700px;
+    height:800px;
     display:flex;
     justify-content: space-evenly;
 
